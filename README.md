@@ -3,7 +3,7 @@ Dynamically change the react child component
 
 Run commands 
 
-  npm install
-  npm start
+  - npm install
+  - npm start
 
 
